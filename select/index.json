@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ブレイキングブレイジング",
+  "base_artist": "Mr.FanTastiC",
+  "createdAt": "2026-04-03T00:23:13.930567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブレイキングブレイジング",
+      "artist": "Mr.FanTastiC",
+      "has_synced": true,
+      "path": "select/01_ブレイキングブレイジング_Mr.FanTastiC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレイキングブレイジング",
+      "artist": "Mr.FanTastiC",
+      "has_synced": false,
+      "path": "select/pl_01_ブレイキングブレイジング_Mr.FanTastiC.txt"
+    }
+  ]
+}
